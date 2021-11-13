@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/flintalljyd242733/nginx",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
